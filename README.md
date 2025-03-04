@@ -9,7 +9,7 @@ I am looking at a dataset containing geometrical measurements of wheat kernels. 
 
 1. **Area** – the area of the kernel  
 2. **Perimeter** – the total outer boundary length  
-3. **Compactness** – $ C = \frac{4 \pi \times \text{Area}}{\text{Perimeter}^2} $  
+3. **Compactness** – $C = \frac{4 \pi \times \text{Area}}{\text{Perimeter}^2}$  
 4. **KernelLength** – the major axis length of the kernel  
 5. **KernelWidth** – the minor axis length of the kernel  
 6. **AsymmetryCoeff** – a measure of asymmetry in the kernel shape  
